@@ -1,0 +1,214 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An answer to the protestation of the nineteen Lords against the rejecting of the impeachment of Mr. Fitz-Harris</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08379</idno>
+            <idno type="OCLC"> 62369011</idno>
+            <idno type="STC">Wing A3438A</idno>
+            <idno type="STC">ESTC R172370</idno>
+            <idno type="EEBO-CITATION">62369011</idno>
+            <idno type="OCLC">ocm 62369011</idno>
+            <idno type="VID">187782</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08379)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 187782)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2842:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An answer to the protestation of the nineteen Lords against the rejecting of the impeachment of Mr. Fitz-Harris</title>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>Re-printed by the Heir of Andrew Anderson,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>Anno Dom. 1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fitzharris, Edward, 1648?-1681 --  Trials, litigation, etc.</term>
+               <term>Popish Plot, 1678.</term>
+               <term>Trials (treason) --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:187782:1"/>
+            <pb facs="tcp:187782:1"/>
+            <pb facs="tcp:187782:2"/>
+            <pb n="1" facs="tcp:187782:2" rendition="simple:additions"/>
+            <head>An Anſwer TO THE PROTESTATION OF THE Nineteen LORDS Againſt the Rejecting of the IMPEACHMENT OF Mr. <hi>FITZ-H ARRIS.</hi>
+            </head>
+            <p>THEY ſay, firſt, <hi>That becauſe in all Ages, it hath been the undoubted Right of the</hi> Commons, <hi>to impeach before the Lords, any Subject for Treaſons or any Crime whatſoever;</hi> and the Reaſon is, <hi>Becauſe great Offences that influence the Parliament, are most effectually determined in Parliament; and hence they affirm, the Impeachment of Mr.</hi> Fitz-Harris <hi>unduely rejected.</hi>
+            </p>
+            <p>The <hi>Parliament</hi> is certainly the moſt High Court of the Nation, and by the Writs, the Members of both Houſes are called to Treat, <hi>de quibuſdam ar<g ref="char:EOLhyphen"/>duis,</hi> certain difficult Matters, or Things of a high Nature, which concern the <hi>King, Kingdom,</hi> and <hi>Church;</hi> and therefore 'tis rational, to think, that <hi>any Crime whatſoever,</hi> doth not properly fall under the <hi>Cogniſance</hi> of this High Court; <hi>nor can any Crime whatſoever,</hi> be ſuch a <hi>great Offence,</hi> as (to uſe their own Phraſe) may influence the Parliament, and be moſt effectually determined in it. If this were admitted, in a ſhort time the Juriſdiction of all inferiour Courts, would fall to the Ground; and, it may be ſuppoſed, it would be thought neceſſary, by theſe Noble Lords, to have a perpetual Parliament, for Goal-deliveries, and the determining Crimes and Miſdemeanours of the loweſt Nature.</p>
+            <p>The great Offence in this particular Caſe, is <hi>High Treaſon;</hi> and, if what hath been ſaid above, be a valid and convincing Reaſon againſt the Lords, for rejecting the Impeachment, it doth ſeem to infer a <hi>Neceſſity</hi> or <hi>Right</hi> of trying <hi>all Treaſons</hi> by <hi>Impeachment</hi> in <hi>Parliament;</hi> becauſe they influence Parliaments, and are moſt effectually determined in them.</p>
+            <pb n="2" facs="tcp:187782:3" rendition="simple:additions"/>
+            <p>Certainly, if there were any Force in this Argument, or Reaſon, the Righ of Tryal of High Treaſons was never underſtood before this time; for in all Ages there have been Traytors, and the greateſt numbers of them have been tryed out of Parliament, either in the Kings Bench, or in the Counties where the Treaſon was committed, or by ſpecial Commiſſion of <hi>Oyer</hi> and <hi>Terminer:</hi> or, Noblemen by a Lord High Steward, and their Peers: and very ſew have been tryed in Parliament, in reſpect of the many which have been tryed out of it: as for Inſtance, in later times<note n="(a)" place="margin">
+                  <hi>Camb. Eliz.</hi> A. D. 1572.</note> the Duke of <hi>Norfolk,</hi> and Earl of <hi>Northumberland,</hi> ſixty ſix<note n="(b)" place="margin">
+                  <hi>ibid.</hi> A. D. 1569.</note> petty Conſtables, and others: engag<g ref="char:EOLhyphen"/>ed in the <hi>Northern</hi> Rebellion,<note n="(c)" place="margin">
+                  <hi>ibid.</hi> A. D. 1584.</note> 
+               <hi>Carter Throckmorton,</hi> and divers others, in the latter end of Queen <hi>Elizabeth's</hi> Reign, the<note n="(d)" place="margin">
+                  <hi>ibid:</hi> A.D. 1601.</note> Earls of <hi>Eſsex, Blunt, Danvers,</hi> and <hi>Maricke</hi> Knights, <hi>Bainham, Orell, Littleton,</hi>
+               <note n="(e)" place="margin">
+                  <hi>ibid.</hi> A.D. 1585. ſol. 308.</note> Dr. <hi>Parry,</hi> who was arraigned at the Kings-Bench Bar in <hi>Weſt<g ref="char:EOLhyphen"/>minſter-hall,</hi> condemned and ſuffered Death as a Tray to, in the Palace yard at <hi>Weſtminster,</hi> ſitting the Parliament at that time. 3. <hi>Jacobi,</hi> the Gun-powder Traytors were tryed by Commiſſion of <hi>Oyer</hi> and <hi>Ter<g ref="char:EOLhyphen"/>miner,</hi> ſitting the Parliament, and the Regicides were tryed at the <hi>Old Baily,</hi>
+               <note place="margin">c. 29.</note> ſitting the Parliament, 1660.</p>
+            <p>By <hi>Magni Charta,</hi> no man is to be condemned, <hi>but by lawful Judg<g ref="char:EOLhyphen"/>ment of his Peers,</hi> which hath been confirmed and declared to be the Common Law of the Land, by many Acts of <hi>Parliament.</hi> The Houſe of Commons were never <hi>choſen, intrusted,</hi> or <hi>impower'd</hi> by the people they repreſent, to do any thing which is not according to the <hi>Common Law;</hi> nay, the whole Parliament cannot do any ſuch thing, unleſs they make a <hi>Statute,</hi> firſt, to make <hi>void</hi> that <hi>Law.</hi>
+            </p>
+            <p>'Tis farther the Common Opinion of <hi>Lawyers,</hi> That all Acts of <hi>Parliament</hi> are void in themſelves, or not binding, which are made againſt the Fundamental Laws, of which, if this Tryal by <hi>Peers</hi> be not one, there is none in <hi>England.</hi>
+            </p>
+            <p>He knows not the value of <hi>Tryal</hi> by <hi>Juries,</hi> that deſires to be tryed any other way. Tis <hi>dangerous,</hi> and againſt the <hi>Liberty</hi> of <hi>free Engliſh men,</hi> to admit of, and have Precedents made to warrant Tryal without <hi>Juries;</hi> Innocents may be <hi>harangued</hi> to death by their Proſecutors, and the vileſt Criminals ſaved by the ſame means; the Speeches, paſſionate Expreſſions, and Inclinations of ſuch men prevailing much upon, and influencing the Witneſſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, either to <hi>Contract,</hi> or <hi>Delate</hi> their <hi>Evidence</hi> againſt the <hi>Perſon</hi> Impeached, eſpecially when they know they may do it freely, with Impunity, and by approbation of potent Purſuers.</p>
+            <p>But, it may be ſaid, What if the Commons deſire to impeach a Commoner before the Lords, for Treaſon, may it not be done?</p>
+            <p>Yes, if the Lords be willing to receive the Impeachment; for they cannot be forced, or oblig'd againſt their wills to hear and paſs Judgement in Crimi<g ref="char:EOLhyphen"/>nal, Capital Caſes, upon any but their own Peers.</p>
+            <p>In the 4th of <hi>Edward</hi> the Third,<note place="margin">Rot. Parl. N. 1, 2, 3, 4, 5.</note> in parliament, <hi>Simon Bereford, Tho. Gournay</hi> and <hi>John Matravers</hi> Knights, <hi>Bogo de Bayons, John Devarel,</hi> and <hi>William Ogle,</hi> all Commoners, were ſentenced to Death by the Lords, for murthering King <hi>Edward</hi> the Second; and afterwards, in the ſame parliament, when the Lords had given Judgement againſt them, <hi>proviſo</hi> and agreement was made and recorded, in theſe words;</p>
+            <q>Et eſt aſſenſu &amp; accord. &amp;c.</q>
+            <p>And it is aſſented and accorded by our Lord the King,<note place="margin">
+                  <hi>ibid.</hi> n. 6.</note> and all the Grands, in full parliament, That albeit the ſaid peers, as <hi>Judges</hi> of <hi>Parliament,</hi> took upon them, in the preſence of our Lord the King to make and render the
+<pb n="3" facs="tcp:187782:3"/>
+               <hi>Judgment, &amp;c.</hi> yet, that the ſaid <hi>Peers,</hi> who now are, or the <hi>Peers</hi> which ſhall be in time to come, be not bound or charged to render <hi>Judgement</hi> upon others than their <hi>Peers.</hi> For that the <hi>Peers</hi> of the land have <hi>Power</hi> to do this; But thereof for ever to be <hi>diſcharged</hi> and <hi>acquitted.</hi> And the foreſaid <hi>Judgement</hi> now rendered, be not drawn into Example or Conſequence in time to come, whereby the ſaid <hi>Peers</hi> may be obliged and charged hereafter to Judge other than their <hi>Peers,</hi> contrary to the Law of the Land, if the like Caſe happen, which God forbid.</p>
+            <p>This <hi>Proviſo</hi> and <hi>Argument</hi> was made in full Parliament, and it had theſe two <hi>Reſpects.</hi>
+            </p>
+            <p n="1">1. To ſatisfie the Commons, that the Lords intended not by their Judg<g ref="char:EOLhyphen"/>ment to alter the courſe of the <hi>Common Law,</hi> and therefore they declared and diſclaimed againſt Power to do this, and confeſſed, it was contrary to the Law of the Land.</p>
+            <p n="2">2. To preſerve their own Right, to Judge none but their Peers, in Caſe of Life and Death.</p>
+            <p>From hence it may be preſumed, that, if at any time the Commons <hi>force</hi> an <hi>Impeachment</hi> upon the Lords againſt a Commoner, for <hi>Treaſon,</hi> that may be try'd at <hi>Common Law,</hi> and then Vote that it ought to be try'd in an Infe<g ref="char:EOLhyphen"/>riour Court, men may be apt to cenſure ſuch Proceedings, and look upon them as a Deſign and Artifice, either to delay Juſtice, by deferring the Tryal of the Criminal, and, as it were, by that means, to contrive his <hi>Pardon,</hi> or by paſſionat <hi>Harangues</hi> to urge and procure his <hi>Condemnation,</hi> which might not have happened in Tryal by a Jury, who gave in their Verdict upon Oath, and are not ſo eaſily encouraged, over-awed, or byaſſed by Rhetorick.</p>
+            <p>And, it may be farther urged, that there is a Statute yet in Force, intitu<g ref="char:EOLhyphen"/>led, <hi>An Act to proceed, by commiſſion of Oyer and Terminer, againſt ſuch Per<g ref="char:EOLhyphen"/>ſons as ſhall be examined and confeſſe Treaſon before the King's Conucil, without remanding the ſame to be tryed in the Shire where the Offence was committed;</hi> which ſeems moſt particularly to direct the Tryal of this Criminal, and the manner of it. 33. <hi>H.</hi> 8. c. 23. <hi>Be it therefore Enacted by the</hi> King, <hi>our Sove<g ref="char:EOLhyphen"/>reign Lord, and by the Aſſent of the</hi> Lords Spiritual and Temporal, <hi>and Com<g ref="char:EOLhyphen"/>mons of this preſent Parliament aſſembled, and by Authority of the ſame, That if any Perſon or Perſons, being examined by the ſaid Council, or Three of them, up<g ref="char:EOLhyphen"/>on any manner of Treaſons, Miſpriſions of Treaſons, or Murders, confeſs any ſuch Offence, or that the ſaid Council, or Three of them, upon ſuch Examina<g ref="char:EOLhyphen"/>tion, ſhall think any ſuch Perſon ſo Examined, to be vehemently ſuſpected of any Treaſon,</hi> &amp;c. <hi>that then, in everie ſuch Proceſs, by the King's Command<g ref="char:EOLhyphen"/>ment, His Majeſties Commiſſion of OYER and TERMINER,</hi> &amp;c. <hi>ſhall be made,</hi> &amp;c. <hi>to ſuch Perſons, and into ſuch Shires or places as ſhall be named by the King, for the ſpeedy Tryal, Conviction, or Deliverance of ſuch Offenders, which Commiſſions ſhall have Power and Authority to Enquire, Hear, and Determine all ſuch Treaſons,</hi> &amp;c. <hi>within the Shire and places limited by their Commiſſion, by ſuch good and Lawful Perſons as ſhall be returned before them by the Sheriff, or his Miniſter, or any other, having power to return Writs and Proceſs for that purpoſe, in whatſoever Shire or Place within the King's Domi<g ref="char:EOLhyphen"/>ons or without, ſuch Offen<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s of Treaſon ſo examined, were done or committed; and that, in ſuch Caſes, no challenge for the Shire or hundred ſhall be allowed.</hi>
+            </p>
+            <p>Secondlie, <hi>They ſay they cannot reject the Impeachment of the</hi> Commons, <hi>be<g ref="char:EOLhyphen"/>cauſe that Suit or Complaint can be determined no where elſe; for, if the Party
+<pb n="4" facs="tcp:187782:4"/>impeached, ſhould be indicted in the King's Bench, or in any other Court, for the ſame Offence, yet it is not the ſame Suit; for, an Impeachment is at the Suit of the People, and they have an Intereſt in it, but an Indictment is at the Suit of the King.</hi>
+            </p>
+            <p>This is all <hi>artificial Reaſon,</hi> or rather a mere <hi>Quible,</hi> if duely examined; for, whether this <hi>Criminal's Tryal</hi> be by Indictment in the King's Bench, or by Impeachment, 'tis the ſame Accuſation, namely, for <hi>Treaſon,</hi> and the <hi>Proſecution</hi> in both Courts (which is really and truly the Suit) is for the ſame end and purpoſe; that is, That the <hi>Delinquent</hi> be puniſhed according to Law; for 'tis to be ſuppoſed that was the Intent of the <hi>Impeachment,</hi> and this may be done moſt <hi>effectually</hi> and <hi>legally,</hi> by the <hi>Tryal</hi> of his <hi>Peers,</hi> in an in<g ref="char:EOLhyphen"/>feriour Court, according to the <hi>Courſe</hi> of the <hi>Common Law.</hi>
+            </p>
+            <p>The ground of this wonderful Reaſon, is the different uſe of the two Words, <hi>Impeachment</hi> and <hi>Indictment,</hi> both which, ſignifie an Accuſation, and the End and Deſign of this Accuſation, is the ſame; and 'tis no great matter, whether this black Criminal receives the Sentence of being Hanged, Drawn, and Quartered, for his vile Treaſon, from the <hi>Lords</hi> in <hi>Parliament,</hi> the <hi>Judes</hi> of the <hi>King's Bench,</hi> or by <hi>ſpecial Commiſſion,</hi> of <hi>Oyer</hi> and <hi>Terminer:</hi> but, moſt certainly, the moſt Legal way of <hi>Tryal,</hi> is by his <hi>Peers,</hi> by whom he may have the moſt equal Condemnation or Acquittal, there being not one precedent to be found, that comes up to, or is parallel with this Caſe.</p>
+            <p>Nor is the pretended preſervation of the Intereſt of the people, an Argument of greater Moment, for, firſt it is very difficult, in Caſes of Treaſon, to ſeparate and divide the Intereſt of the King and People from each other. Have not the People an Intereſt in the King's Life, and in the Government, and is not this Intereſt the ſame with the Kings? The preſervation of both, is the joynt Intereſt of both, which really cannot be divided.</p>
+            <p>Secondly, the <hi>Intereſt</hi> of the People is <hi>founded</hi> upon <hi>publick Good</hi> and <hi>Bene<g ref="char:EOLhyphen"/>fite,</hi> by that it is meaſured, and of that they have their ſhare; ſo that tho it ſhould be granted, one and the ſame publick Crime or Offence may intitle both King and People to ſeveral Suits; yet, if by either Suit, ſuch Offence may be duely, legally, and effectually heard, diſcuſſed and puniſhed, the Intereſt of the people is equally ſafe, which way ſoever it ſhall be deter<g ref="char:EOLhyphen"/>mined, whether in <hi>Parliament,</hi> or in an <hi>inferiour Court,</hi> in which laſt, ſuch publick Crimes as this have been moſt frequently tryed. 'Tis not the <hi>Name Greatneſſe</hi> or <hi>Title</hi> of the <hi>Court,</hi> but the <hi>Publick Justice,</hi> that is legally done in it, that ſecures the <hi>Rights</hi> and <hi>Intereſt</hi> of the People.</p>
+            <p>Thirdly, The Proteſting Lords ſay, by way of Example, or putting a Caſe, to confirm, or at leaſt to illuſtrate their Reaſons, <hi>That one and the ſame Offence ma intitle ſeveral Perſons to ſeveral Suits; as if a Murder be committed, the King may indict at his Suit, and the Heir or Wife of the mur<g ref="char:EOLhyphen"/>dered Party, may bring an Appeal, and the King cannot releaſe that Appeal, nor his Indictment prevent the Proceedings in the Appeal, becauſe the Appeal is the Suit of the Party, and he hath no Interest in it.</hi>
+            </p>
+            <p>But, this Example of Appeal in Murder, if rightly underſtood, ſignifies nothing either to the Confirmation, or Illuſtration of the Reaſons of their Proteſtation.</p>
+            <pb n="5" facs="tcp:187782:4"/>
+            <p>For an Appeal of Murder in our Common Law, ſignifies an <hi>Action</hi> or <hi>Suit</hi> given by the Law to the Wife,<note place="margin">Coke <hi>Iſt.</hi> In<g ref="char:EOLhyphen"/>ſtit. fol. <hi>123.</hi> &amp; <hi>187.</hi> o.</note> for wrong done to her Hus<g ref="char:EOLhyphen"/>band being murder'd or to the Heir, for wrong done to his murder|'d<!--the prior "|'d" is what is actually found in the text--> Father, Brother, or Anceeſtor; and any one that<note n="*" place="margin">Shepards Abr. word <hi>Appeal.</hi> Stat. <hi>30.</hi> Hen. <hi>7.</hi> c. <hi>1.</hi>
+               </note> ſues an Appeal, muſt ſue it in proper perſon; and for advantage to be taken by the VVife, or Heir, for this wrong done, is the reaſon aſſigned in the Law Books, why an Appeal is given to them; and why the King cannot releaſe an Appeal, which is to be brought within a year and a day; and if the Appellants fail in proof of the Accuſation, the Appellees ſhall recover Damages againſt them or their Abettors.</p>
+            <p>To make an Impeachment of the Commons the ſame with this caſe, they muſt make it appear by precedents out of the <hi>Parliament Rolls</hi> or <hi>Journals,</hi> or by the <hi>Common</hi> or <hi>Statute Law,</hi> that the <hi>Commons</hi> have ſuch an Action or Suit as an Impenchment of a Commoner for Treaſon, which may be tried in an inferiour Court given them before the Lords, ſo as they cannot refuſe to hear and judge it, or they do nothing.</p>
+            <p>Otherways it may be in Impeachments, for Miſdemeanors: Where though the Common Law may take notice of them, yet happy the Miſdemeanor may be ſuch as it cannot be ſufficiently puniſhed thereby; but for all High-Treaſons the <hi>Law</hi> hath provided <hi>ultimum ſupplicium,</hi> which is ſufficient, and after that there can be no other Inflicted.</p>
+            <p>To inforce this Inſtance of an Appeal, they add by a Note in the Margin, <hi>That it is always to be preferred, and upon notice thereof, all proſecutions at Suit of the King are to ſtop, till the proſecution at the Suit of the party be determined:</hi> But the <hi>Statute Law</hi> is otherwiſe. The time limited for an Appeal to be taken,<note place="margin">3. <hi>Hen</hi> 7. <hi>c.</hi> 1</note> is a Year and Day, and the King ſhal not ſtay this Year and Day from proſecution at his Suit, to ſave the Suit of the party, as was anciently accuſtomed, but may Arraign the Murderer at any time within the Year and Day, and not tarry that time, for any Appeal to be taken for the ſame Murder, but if the Murderer be Arraigned and Acquit at the Kings Suit, the VVife or next Heir to him that is Slain, may have and take their Appeal within the Year and Day after the Mur<g ref="char:EOLhyphen"/>der done againſt the perſon, ſo Arraigned and Acquit.</p>
+            <p>There have been alſo appeals of another nature,<note place="margin">Vide pl. Coron. coram Rege in Par<g ref="char:EOLhyphen"/>liamento. <hi>21</hi> Rich. <hi>2.</hi> Stat <hi>1.</hi> H. <hi>4.</hi> c. <hi>14.</hi>
+               </note> made and purſued in Parliament, as well againſt Peers as Commoners, by certain <hi>Lords</hi> called Appellants, which cauſed great Miſchiefs and inconveniencies in the Realm, and therefore it was <hi>Ordained and Eſtabliſhed, That from henceforth, all Appeals to be made of things done within the Realm, ſhall be tryed and determined by the good Laws of the Realm, and it was then Accorded and Aſſented, that no Appeals be from that time made or purſued in parli<g ref="char:EOLhyphen"/>ament, in any time to come.</hi>
+            </p>
+            <p>The word <hi>Appeal</hi> ſignifies an Accuſation, and ſo doth the Word <hi>Impeach<g ref="char:EOLhyphen"/>ment,</hi> and the Word <hi>Impeachment</hi> ſeems to have been more frequently uſed for <hi>proſecutions</hi> in <hi>parliament,</hi> when the VVord <hi>Appeal</hi> grew out of uſe; now if all Appeals which had been before brought in parliament, and being chiefly in <hi>ca<g ref="char:EOLhyphen"/>pital</hi> and <hi>criminal</hi> Cauſes, were removed from that <hi>Judicator</hi> by this <hi>Law,</hi> and refer<g ref="char:EOLhyphen"/>red to be Tryed by the Laws of the <hi>Land,</hi> why ought not Impeachments of a Com<g ref="char:EOLhyphen"/>moner for Treaſon by the Commons, to be alſo referred to the Common <hi>Law,</hi> ſeeing great Inconveniences &amp; Miſchiefs may ariſe from this way of Tryal, by the
+<pb n="6" facs="tcp:187782:5"/>Impeached perſon loſing his Tryal by his Peers, or by being wronged by a paſſion at and violent proſecution, or the King and Nation injured by the too remiſs and cold management of a contrived Method of Accuſation? 'Tis not to be doubted, but the Ground and Reaſon of this <hi>Law</hi> is and may be the ſame againſt impeachments of Commoners, that it was againſt Appeals; and therefore by conſequence in force againſt them, eſpecially ſeeing there is not ſo much as one Precedent to warrant them, an in truth an impeachment of the Houſe of Commons, is no other than an Appeal to the King in Parliament.</p>
+            <p>Theſe <hi>Lords</hi> interpret this Rejection of the impeachment to be an abſolute Denyal of Juſtice, becauſe they ſay as before, <hi>the ſame Suit cannot be Tryed any where elſe;</hi> it hath been ſhewn before, that this reaſon is a meer Quibble of afond Groundleſs Nicety. Nor can any Man, though but of a mean ca<g ref="char:EOLhyphen"/>pacity, think it to be a denyal of Juſtice to reſer the Tryal of a <hi>Crime</hi> to an <hi>Inferiour Court,</hi> where it is moſt properly tryable by the <hi>Laws</hi> of the <hi>Land.</hi> Nor was it certainly a Denial of Juſtice in the <hi>Lords</hi> in <hi>Drakes Caſe,</hi> which they ordered to be Tryed in the Kings Bench. The Words of the Order are theſe:</p>
+            <p>
+               <q>The Houſe taking into conſideration the Impeachment,<note place="margin">Lords Jour<g ref="char:EOLhyphen"/>nal, Merc. Dec. <hi>19. 1660.</hi>
+                  </note> brought up from the Houſe of Commons in the name of all the Commons of <hi>England,</hi> againſt <hi>William Drake,</hi> Merchant and Citizen of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> and their Lordſhips apprehending they may not have time be<g ref="char:EOLhyphen"/>fore their Diſſolution to proceed in Judicature againſt him: It is therefore ordered and declared by the Lords in Parliament, That the King's <hi>Attorney General</hi> do in His Majeſti's Name proceed againſt the ſaid <hi>VVilliam Drake</hi> in the Court of <hi>Kings Bench,</hi> upon the ſaid Offences, according to the ordinary courſe of Law.</q>
+            </p>
+            <p>This reference of this Caſe to the <hi>Kings Bench</hi> was not proteſted againſt by any of the Houſe of Peers, nor ſo much as queſtioned, nor thought to be Ar<g ref="char:EOLhyphen"/>bitrary, Illegall, or againſt the conſtitution of Parliament: His Crime was for publiſhing a Pamphlet in the name of one <hi>Phillips,</hi> called, <hi>The Long Par<g ref="char:EOLhyphen"/>liament revived;</hi>
+               <note place="margin">Com. Jurnal, Mart. Dec. <hi>4. 1660.</hi>
+               </note> the Impeachment was in this form: <q>The Knights, Citizens, and Burgeſſes of the Houſe of Commons in the name of themſelves, and all the Commons of <hi>England,</hi> do hereby declare, complain, and ſhew againſt <hi>VVilliam Drake,</hi> Merchant, and Citizen of <hi>London,</hi> that in contempt of His Majeſty's Crown and Digni<g ref="char:EOLhyphen"/>ty, and of the Laws and Government of this Kingdom, and out of a wicked and malicious in<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>antion to raiſe and ſtir up Sedition and Diviſion in this Kingdom, and againſt they Peace of our Soveraign Lord the King, <hi>&amp;c.</hi>
+               </q>
+            </p>
+            <p>By this proceeding of the Lords, it ſeems they thought not then, that one and the ſame Impeachment might continue from Parliament to Parlia<g ref="char:EOLhyphen"/>ment without being revived, or a new one brought up; and a man would think they had reaſon on their ſide; for 'its hardly conceivable, when a Court is diſſolved and not in beeing, how any thing depending in that Court ſhould have a Beeing, or remain: What can ſupport it? What can give it a Beeing or Exiſtence? In the Prorogations of Parliaments, all buſineſſe ceaſ<g ref="char:EOLhyphen"/>eth, and begins new, much more it ought to do ſo, when the Court it ſelf falleth, and loſeth its beeing.</p>
+            <pb n="7" facs="tcp:187782:5"/>
+            <p>Laſtlie, they ſay, <hi>Our Law ſaith, in the Perſon of the King, Nulli negabi<g ref="char:EOLhyphen"/>mus juſt<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tiam, We will deny Juſtice to no ſingle perſon; yet here in this caſe, as they apprehend, Justice is denied to the whole Body of the people, and this may be interpreted, an exerciſing of Arbitrary power, and will, as they fear, have influence upon the conſtitution of the</hi> Engliſh <hi>Government, and be an en<g ref="char:EOLhyphen"/>couragement to all inferiour Courts to exerciſe the ſame Arbitrary Power, by deny<g ref="char:EOLhyphen"/>ing the Preſentments of the Grand Juries,</hi> &amp;c.</p>
+            <p>As to a denial of <hi>Justice</hi> in this ca<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, it hath been clearlie made appear before, there neither is, nor can be any ſuch thing, by rejecting this Im<g ref="char:EOLhyphen"/>peachment, and referring the Treaſon contained in it to be <hi>determined</hi> and <hi>tryed</hi> by the <hi>Common Law;</hi> and therefore <hi>what is not;</hi> nor <hi>can be,</hi> cannot be interpreted an <hi>exerciſing</hi> of <hi>Arbitray Power,</hi> nor have any <hi>influence</hi> upon the <hi>conſtitution</hi> of the <hi>Engliſh</hi> Government.</p>
+            <p>This whol laſt Paragraph is indeed a <hi>ſevere Reflection,</hi> rather than <hi>Reaſon</hi> (to what end it's needleſs to tell the World) for this very action of <hi>waving</hi> his <hi>Impeachment,</hi> is ſo far from encouraging <hi>inferiour Courts, to exerciſe</hi> an <hi>Arbitrarie Power, by denying the Preſentments of Grand Juries,</hi> as manifeſtly it hath a contrarie operation and effect in Law, for by this means, this great <hi>Conſpirator</hi> in the <hi>Popiſh Plot</hi> to murder the <hi>King,</hi> and deſtroy and ſubvert the <hi>Proteſtant Religion,</hi> will receive his Tryal as the <hi>Law</hi> directs, by <hi>Preſent<g ref="char:EOLhyphen"/>ment</hi> and <hi>Verdict</hi> of a <hi>Grand Jurie,</hi> and <hi>Petty Jury,</hi> one or both, who are his Peers.</p>
+            <p>Having done with the Proteſtation it ſelf, it may not be impertinent to make a Query or two about the ſubject matter of the Indictment, and Im<g ref="char:EOLhyphen"/>peachment. <hi>What if there be ſeveral and different Treaſons, for which</hi> Mr. Fitz Harris <hi>may ſtand accuſed? Shall not the King proceed to try him according to the due courſe of Law?</hi> The Treaſon for which he is proſecuted at Law may not be the ſame, and in all probabilitie it is not, for which he was impeach<g ref="char:EOLhyphen"/>ed: The Houſe of Commons declared not what the Treaſon was in particu<g ref="char:EOLhyphen"/>lar, and the King had the firſt poſſeſſion of the Caſe, having firſt examined the Criminal. <hi>Shall the courſe of the Common Law be obſtructed, or delayed by the Impeachment?</hi> When if he receives not ſentence of Death upon his firſt Indictment at Law, he may be remanded to Priſon, and afterwards proſecu<g ref="char:EOLhyphen"/>ted by Impeachment, or upon new Indictments at the Common Law for his other Treaſons, if the Gentlemen of the late Houſe of Commons, who have, or received the Information againſt him ſhall think it expedient. <hi>Have not all the horrid damnable</hi> Popiſh Plotters <hi>which were Commoners been tryed by the common Law, notwithſtanding the Sitting of the Parliaments? What ne<g ref="char:EOLhyphen"/>ceſſity is there then of any extraordinary way by Impeachment.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>EDINB<g ref="char:V">Ʋ</g>RGH,</hi> Re-printed by the Heir of <hi>Andrew Anderſon,</hi> Printer to His moſt Sacred <hi>Majeſty. Anno Dom.</hi> 1681.</p>
+            <pb facs="tcp:187782:6"/>
+            <pb facs="tcp:187782:6"/>
+         </div>
+      </back>
+   </text>
+</TEI>
